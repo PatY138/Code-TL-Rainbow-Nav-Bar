@@ -7,6 +7,7 @@
     -webkit-text-stroke: 0.4px black;
 }
 
+
 .topnav a {
   float: left;
   color: #f2f2f2;
@@ -121,3 +122,28 @@
     }
 
 }
+
+#redbg{
+    background-color: red;
+}
+
+#orangebg{
+    background-color: orange;
+}
+
+#yellowbg{
+    background-color: yellow;
+}
+
+#greenbg{
+    background-color: green;
+}
+
+#bluebg{
+    background-color: blue;
+}
+
+#purplebg{
+    background-color: purple;
+}
+
